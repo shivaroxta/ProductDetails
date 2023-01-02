@@ -1,0 +1,10 @@
+.loader-products-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.product-details {
+  display: flex;
+  flex-direction: row;
+}
