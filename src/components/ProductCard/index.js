@@ -4,7 +4,7 @@ import './index.css'
 
 const ProductCard = props => {
   const {id, productData} = props
-  const {title, brand, imageUrl, rating, price} = productData
+ const {title, brand, imageUrl, rating, price, id} = productData
 
   return (
     //   Wrap with Link from react-router-dom
